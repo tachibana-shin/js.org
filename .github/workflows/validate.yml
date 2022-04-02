@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master
+      - MattIPv4/testing
   pull_request:
     branches:
       - master
